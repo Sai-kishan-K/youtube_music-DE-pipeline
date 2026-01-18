@@ -1,4 +1,5 @@
-# 🎧 Spotify Modern Data Stack Project
+
+# 🎧 Youtube Music Modern Data Stack Project
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![DBT](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
@@ -9,10 +10,6 @@
 ![Modern Data Stack](https://img.shields.io/badge/Modern%20Data%20Stack-00C7B7?logo=databricks&logoColor=white)
 
 ---
-
-
-
-# 🎧 Youtube Music Modern Data Stack Project
 
 ##  Project Overview
 
