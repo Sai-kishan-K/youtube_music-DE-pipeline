@@ -7,7 +7,6 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Modern Data Stack](https://img.shields.io/badge/Modern%20Data%20Stack-00C7B7?logo=databricks&logoColor=white)
 
 ---
 
@@ -21,7 +20,7 @@ This project demonstrates an **end-to-end real-time data engineering pipeline** 
 
 ## Architecture
 
-*(Replace the link below with the image I generated for you or your existing GitHub asset link)*
+![Project Architecture](./docs/Youtube_ar_Diagram.jpg)
 
 ### The Pipeline Flow:
 
