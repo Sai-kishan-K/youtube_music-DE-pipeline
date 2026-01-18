@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: bronze
+    database: YOUTUBE_MUSIC_DB
+    schema: BRONZE
+    tables:
+      - name: ym_events_bronze
